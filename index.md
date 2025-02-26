@@ -1,5 +1,5 @@
 ---
-title: this will be my portfolio
+title: Portfolio of Linthe van Rooij
 ---
 
 **First project**  
