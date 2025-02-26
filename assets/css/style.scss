@@ -1,0 +1,33 @@
+---
+---
+
+.footer-list {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-list li {
+    margin: 0 10px;
+    position: relative;
+}
+
+/* Add a '|' separator between items except for the last one */
+.footer-list li:not(:last-child)::after {
+    content: "|";
+    margin-left: 10px;
+    color: #999; /* Adjust color to match your theme */
+}
+
+/* Style the LinkedIn icon */
+.footer-list a {
+    text-decoration: none;
+    color: #0077b5; /* LinkedIn blue */
+    font-size: 20px;
+}
+
+.footer-list a:hover {
+    color: #005582;
+}
