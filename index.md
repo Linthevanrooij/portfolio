@@ -1,5 +1,5 @@
 ---
-title: Portfolio of Linthe van Rooij
+title: Linthe van Rooij
 ---
 
 **First project**  
