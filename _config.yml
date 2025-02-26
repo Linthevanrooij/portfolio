@@ -4,5 +4,3 @@ author: Linthe van Rooij
 description: Welcome to my Portfolio!
 plugins:
 - jekyll-remote-theme 
-include:
-  - _pages
