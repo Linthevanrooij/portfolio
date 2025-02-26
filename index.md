@@ -2,9 +2,7 @@
 title: Linthe van Rooij
 ---
 
-**First project**  
-Blablabla this is showing HCI project 
-
-**Second project**  
-blablabla
+**About**  
+Description of me
+[LinkedIn](https://www.linkedin.com/in/linthe-van-rooij-229675204/)
 
