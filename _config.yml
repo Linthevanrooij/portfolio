@@ -1,6 +1,6 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Linthe van Rooij
 author: Linthe van Rooij
-description: projects made during my masters Media Technology
+description: Welcome! On this page, I will include the projects I made during my masters Media Technology
 plugins:
 - jekyll-remote-theme 
