@@ -27,7 +27,6 @@
 
 .footer-list a {
     color: #999;
-    font-size: inherit;
 }
 
 .footer-list li {
@@ -39,4 +38,8 @@
 .footer-list li:not(:last-child)::after {
     content: "|";
     margin-left: 10px;
+}
+
+.i:hover {
+    text-decoration: none;
 }
