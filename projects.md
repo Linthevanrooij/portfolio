@@ -3,4 +3,4 @@ layout: default
 title: Projects
 ---
 
-![Spooky](Spooky.png "Spooky")
+![Spooky](portfolio/spooky.png)
