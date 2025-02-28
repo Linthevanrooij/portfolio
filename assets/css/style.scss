@@ -8,6 +8,7 @@
     justify-content: center; /* Centers the entire list horizontally */
     align-items: center; /* Aligns vertically if needed */
     text-align: center; /* Ensures text elements align properly */
+    color: #999;
 }
 
 .fa-linkedin-square:hover {color:#2867B2;}
@@ -15,12 +16,9 @@
 .fa-github-square:hover {color:#333}
 
 .footer-list {
-    display: flex;
-    align-items: center;
     list-style: none;
     padding: 0;
     margin: 0;
-    color: #999;
 }
 
 .footer-list li {
