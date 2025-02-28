@@ -11,23 +11,21 @@ I am Linthe van Rooij, currently working on my graduation project from Creative 
 
 Check out some of the projects I made during my Masters CIaT, a masters that allowed me to create a foundation in technology and mix this with my artistic side. What does this mean? This means that I am specialized in making projects, experiences and installations which convey information about a certain subject. 
 
-
-**Let's get in touch!**
 <fieldset>
-  <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.</p>
-
   <form>
-    <h2>Form Element</h2>
+    <h2>Let's get in touch</h2>
 
-    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Nullam dignissim convallis est. Quisque aliquam. Donec faucibus. Nunc iaculis suscipit dui.</p>
-
-    <p><label for="text_field">Text Field:</label>
+    <p><label for="text_field">Name:</label>
       <input type="text" id="text_field" /></p>
 
-    <p><label for="text_area">Text Area:</label>
+    <p><label for="company">Company:</label>
+      <input type="text" id="text_field" /></p>
+
+    <p><label for="text_area">Message</label>
       <textarea id="text_area"></textarea></p>
 
-    <p><label for="select_element">Select Element:</label>
+
+    <!-- <p><label for="select_element">Select Element:</label>
       <select name="select_element">
         <optgroup label="Option Group 1">
           <option value="1">Option 1</option>
@@ -63,16 +61,7 @@ Check out some of the projects I made during my Masters CIaT, a masters that all
       <label>
         <input type="checkbox" class="checkbox" name="checkboxes" value="check_3" /> Checkbox 3
       </label>
-    </p>
-
-    <p><label for="password">Password:</label>
-      <input type="password" class="password" name="password" />
-    </p>
-
-    <p><label for="file">File Input:</label>
-      <input type="file" class="file" name="file" />
-    </p>
-
+    </p> -->
 
     <p><input type="submit" value="Submit" /></p>
   </form>
