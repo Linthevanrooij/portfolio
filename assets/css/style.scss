@@ -4,8 +4,14 @@
 @import "jekyll-theme-cayman";
 
 .site-footer-credits {
-    text-align: center;
+    align-items: center;
 }
+
+
+
+.fa-linkedin-square:hover {color:#2867B2;}
+
+.fa-github-square:hover {color:#333}
 
 .footer-list {
     display: flex;
@@ -13,6 +19,10 @@
     list-style: none;
     padding: 0;
     margin: 0;
+}
+
+.footer-list a {
+    color: #999;
 }
 
 .footer-list li {
