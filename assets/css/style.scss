@@ -10,11 +10,15 @@
     justify-content: center;
 }
 
+.fa {
+    font-size: 1.2em;
+}
+
 .fa-linkedin-square:hover {color:#2867B2;}
 
 .fa-github-square:hover {color:#333}
 
-.material-icons:hover {color:#0F6CBD}
+.fa-envelope:hover {color:#0F6CBD}
 
 .footer-list {
     display: flex;
