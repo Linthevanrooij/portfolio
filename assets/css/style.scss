@@ -3,9 +3,13 @@
 
 @import "jekyll-theme-cayman";
 
+.site-footer-credits {
+    text-align: center;
+}
+
 .footer-list {
     display: flex;
-    text-align: center;
+    align-items: center;
     list-style: none;
     padding: 0;
     margin: 0;
@@ -21,15 +25,4 @@
     content: "|";
     margin-left: 10px;
     color: #999; /* Adjust color to match your theme */
-}
-
-/* Style the LinkedIn icon */
-.footer-list a {
-    text-decoration: none;
-    color: #000000; /* LinkedIn blue */
-    font-size: 20px;
-}
-
-.footer-list a:hover {
-    color: #ffffff;
 }
