@@ -7,9 +7,9 @@ title: Contact
 
 Hi there! 
 
-I am Linthe van Rooij, currently working on my graduation project from Creative Intelligence and Technology (CIaT)
+I am Linthe van Rooij, currently finishing my graduation project from Creative Intelligence and Technology (CRIT).
 
-Check out some of the projects I made during my Masters CIaT, a masters that allowed me to create a foundation in technology and mix this with my artistic side. What does this mean? This means that I am specialized in making projects, experiences and installations which convey information about a certain subject. 
+Check out some of the projects I created during my Master's CRIT, a program that allowed me to establish a foundation in technology and blend it with my artistic/creative side. The projects focus mostly on interactive participation, often together with a playful twist. 
 
 <fieldset>
   <form>
