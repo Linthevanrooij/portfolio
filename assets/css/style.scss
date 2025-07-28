@@ -92,8 +92,6 @@
 
 .project-wrapper {
   display: flex;
-  flex-wrap: wrap;         /* Wrap to next line if too wide */
-  gap: 20px;               /* Add space between blocks */
-  justify-content: center; /* Optional: center the whole row */
   margin-top: 20px;
+  margin-bottom: 20px;
 }
