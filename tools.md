@@ -19,7 +19,7 @@ Later, for the course Computational Creativity, we further developed this tool i
 
 [link to github](https://github.com/Linthevanrooij/PianoSheetAI){:target="_blank"}
 
-<div class="project-wrapper">
+<div class="video-image-wrapper">
     <div>
         <a href="https://youtu.be/e-GNHiEiJg8" class="image-overlay-link" target="_blank">
             <div class="image-overlay-container-2">
@@ -28,7 +28,7 @@ Later, for the course Computational Creativity, we further developed this tool i
             </div>
         </a>
     </div>
-    <img src="images/pianosheet2.jpg" alt="pianosheet_presentation">
+    <img src="images/pianosheet2.jpg" width= "340" heigth="250" alt="pianosheet_presentation">
     
 </div>
 
