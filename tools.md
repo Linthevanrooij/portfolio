@@ -28,7 +28,7 @@ Later, for the course Computational Creativity, we further developed this tool i
             </div>
         </a>
     </div>
-    <img src="images/pianosheet2.jpg" width="400" height="200" alt="pianosheet_presentation">
+    <img src="images/pianosheet2.jpg" alt="pianosheet_presentation">
     
 </div>
 
