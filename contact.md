@@ -19,7 +19,7 @@ Check out some of the projects I created during my Master's CRIT, a program that
     <p><label for="company">Company:</label>
       <input type="text" id="text_field" /></p>
     <p><label for="text_area">Message</label>
-      <textarea id="text_area"></textarea></p>
+      <textarea id="text_area" name="Message" rows="10" cols="40" required></textarea></p>
     <p><input type="submit" value="Submit" /></p>
   </form>
 </fieldset>
