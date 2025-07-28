@@ -14,10 +14,9 @@ For my thesis project, I created a custum-build escape room to investigate the F
             <div class="overlay-text">Presentation Slides</div>
         </div>
     </a>
-    <img src="images/escape2.jpg" width= "340" heigth="250" alt="tel">
-    <img src="images/escape3.jpg" width="250" heigth="400" alt="tel">
-    
-<div>
+    <img src="images/escape2.jpg" width= "320" heigth="250" alt="tel">
+    <img src="images/escape3.jpg" width="150" heigth="250" alt="tel">
+</div>
 
 The (portable) escape room was aimed to create an active learning experience about the underlying arguments surrounding the statement *Should AI replace office workers?*. An impression of the escape room can be found below. 
 
