@@ -19,7 +19,7 @@ As part of the course Hardware & Physical Computing, me and two other classmates
     <div>
         <a href="https://www.youtube.com/watch?v=Qoaznm9Rup4" class="image-overlay-link" target="_blank">
             <div class="image-overlay-container-2">
-            <img class="projects-square" src="/portfolio/images/goose2.jpg" alt="gooseboard">
+            <img class="projects-square" src="images/goose2.jpg" alt="gooseboard">
             <div class="overlay-text">View Demo Video</div>
             </div>
         </a>
