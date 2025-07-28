@@ -11,16 +11,16 @@ As part of the course HCI, me and Emma Boom built an interactive web application
 Later, for the course Computational Creativity, we further developed this tool into PianoSheetAI 2.0 focused on co-creativity. 
 
 
-[link to github](https://github.com/Linthevanrooij/PianoSheetAI)
+[link to github](https://github.com/Linthevanrooij/PianoSheetAI){:target="_blank"}
 
-[link to demo](https://youtu.be/e-GNHiEiJg8)
+[link to demo](https://youtu.be/e-GNHiEiJg8){:target="_blank"}
 
 **Image2Paint**
 
 The Creative Programming Course taught me how to program in Processing, a java-based programming tool. I created a creative tool that turns any image into a colouring template, inspired by “paint by number”. A paint-by-number painting is a painting in the form of a colouring plate with tiny numbers in it, defining which colour needs to be painted where. This is something that became a famous activity during COVID-19 and is a personal hobby of mine as well. This creative tool turns any image into a printable colouring template and defines colours to paint inside the tool as well. 
 
 
-[link to github](https://github.com/Linthevanrooij/Image2paint)
+[link to github](https://github.com/Linthevanrooij/Image2paint){:target="_blank"}
 
 <img src="images/CP_2.png" width="200" height="200" alt="sailboat">
 <img src="images/CP_3.png" width="200" height="200" alt="TajMahal">
@@ -29,8 +29,14 @@ The Creative Programming Course taught me how to program in Processing, a java-b
 
 One of my elective projects was AI in Society. For the final project, we had to re-imagine what AI could be in a hopeful way within a specific domain. I chose "Environment" and build a concept idea/ prototype for a tool that tracks your GPT usage, and links this to energy and water usage, based on known data. 
 
-[Link to prototype](docs/GreenPlanetTracker.pdf)
-
+<div>
+    <a href="/docs/GreenPlanetTracker.pdf" class="image-overlay-link" target="_blank">
+        <div class="image-overlay-container">
+        <img class="projects-square" src="/portfolio/images/aisoc.png" alt="GPTracker">
+        <div class="overlay-text">View Demo PDF</div>
+        </div>
+    </a>
+</div>
 
 
 
