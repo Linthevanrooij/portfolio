@@ -17,8 +17,6 @@ As part of the course HCI, me and Emma Boom built an interactive web application
 Later, for the course Computational Creativity, we further developed this tool into PianoSheetAI 2.0 focused on co-creativity. 
 
 
-[link to github](https://github.com/Linthevanrooij/PianoSheetAI){:target="_blank"}
-
 <div class="video-image-wrapper">
     <div>
         <a href="https://youtu.be/e-GNHiEiJg8" class="image-overlay-link" target="_blank">
@@ -33,17 +31,18 @@ Later, for the course Computational Creativity, we further developed this tool i
 </div>
 
 
+[link to github](https://github.com/Linthevanrooij/PianoSheetAI){:target="_blank"}
+
 <h3 id="Image2Paint">Image2Paint</h3>
 
 The Creative Programming Course taught me how to program in Processing, a java-based programming tool. I created a creative tool that turns any image into a colouring template, inspired by “paint by number”. A paint-by-number painting is a painting in the form of a colouring plate with tiny numbers in it, defining which colour needs to be painted where. This is something that became a famous activity during COVID-19 and is a personal hobby of mine as well. This creative tool turns any image into a printable colouring template and defines colours to paint inside the tool as well. 
 
 
-[link to github](https://github.com/Linthevanrooij/Image2paint){:target="_blank"}
-
 <img src="images/CP_2.png" width="200" height="200" alt="sailboat">
 <img src="images/CP_3.png" width="200" height="200" alt="TajMahal">
 <img src="images/tools_main.png" width="200" height="200" alt="TajMahal">
 
+[link to github](https://github.com/Linthevanrooij/Image2paint){:target="_blank"}
 
 <h3 id="GPTracker">GreenPlanetTracker (GPTracker)</h3>
 
