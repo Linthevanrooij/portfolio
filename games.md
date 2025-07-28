@@ -32,7 +32,7 @@ As part of the course Hardware & Physical Computing, me and two other classmates
 
 Inspired by BrainBall, NeuroSonification is a game where two players control sound with mind relaxation. The project was build for the course Sound, Space and Interaction. The players are placed on opposite sites and each wear a MindWave EEG set. This set registers how relaxed the players are and based on these scores, will play a synthesized sound in the space between the participants. For this course, I learned to use PureData, a visual coding language specifically used for music generation. 
 
-Neurosonification also got selected for the [YAL/YUL Science Exhibition in Leiden](https://www.universiteitleiden.nl/en/news/2024/06/unique-exhibition-translates-science-into-music-images-and-dance), where I presented my work and visitors could experience the game. 
+Neurosonification also got selected in June 2024 for the [YAL/YUL Science Exhibition in Leiden](https://www.universiteitleiden.nl/en/news/2024/06/unique-exhibition-translates-science-into-music-images-and-dance), where I presented my work and visitors could experience the game.
 
 
 <div class="video-image-wrapper">
@@ -42,4 +42,21 @@ Neurosonification also got selected for the [YAL/YUL Science Exhibition in Leide
     </video>
     <img src="images/SSI3.JPG" width= "250">
     <img src="images/SSI4.JPG" width= "250">
+</div>
+
+<h3 id="EscapePlato">Escape From Plato's Cave</h3>
+
+The course Science and Humanities encouraged us to translate an insight about the course into an experience. For this, I've build a portable esacpe room, in which the players are "trapped in Plato's cave". The goal? To escape from your own perspective only (Plato's Cave) and to combine knowledge to come to an overview of all perspectives (the outside world). An impression of the escape room can be found below. 
+
+<div class="video-image-wrapper">
+    <div>
+        <a href="docs/Escape_plato.pptx" class="image-overlay-link" target="_blank">
+            <div class="image-overlay-container-2">
+            <img class="projects-square" src="images/escape.png" alt="gooseboard">
+            <div class="overlay-text">View impression</div>
+            </div>
+        </a>
     </div>
+    <img src="images/plato.jpg" heigth="250" alt="pianosheet_presentation">
+    
+</div>
