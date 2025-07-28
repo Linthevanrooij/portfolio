@@ -19,17 +19,18 @@ Later, for the course Computational Creativity, we further developed this tool i
 
 [link to github](https://github.com/Linthevanrooij/PianoSheetAI){:target="_blank"}
 
-
-<div>
-    <a href="https://youtu.be/e-GNHiEiJg8" class="image-overlay-link" target="_blank">
-        <div class="image-overlay-container-2">
-        <img class="projects-square" src="/portfolio/images/pianosheetmain.png" alt="pianosheetai">
-        <div class="overlay-text">View Demo Video</div>
-        </div>
-    </a>
+<div class="video-image-wrapper">
+    <div>
+        <a href="https://youtu.be/e-GNHiEiJg8" class="image-overlay-link" target="_blank">
+            <div class="image-overlay-container-2">
+            <img class="projects-square" src="/portfolio/images/pianosheetmain.png" alt="pianosheetai">
+            <div class="overlay-text">View Demo Video</div>
+            </div>
+        </a>
+    </div>
+    <img src="images/pianosheet2.jpg" width="400" height="200" alt="pianosheet_presentation">
+    
 </div>
-
-<img src="images/pianosheet2.jpg" width="200" height="200" alt="pianosheet_presentation">
 
 
 <h3 id="Image2Paint">Image2Paint</h3>
