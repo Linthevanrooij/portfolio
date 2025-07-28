@@ -21,8 +21,8 @@ The Creative Programming Course taught me how to program in Processing, a java-b
 
 [link to github](https://github.com/Linthevanrooij/Image2paint)
 
-<img src="CP_2.png" width="200" height="200">
-<img src="CP_3.png" width="200" height="200">
+<img src="CP_2.png">
+<img src="CP_3.png">
 
 **GreenPlanetTracker (GPTracker)**
 
