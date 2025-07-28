@@ -6,13 +6,13 @@ title: Projects
 <div class="project-wrapper">
     <a href="/portfolio/games.html" class="image-overlay-link">
         <div class="image-overlay-container">
-        <img class="projects-square" src="/portfolio/images/games_main.png" alt="Spooky">
+        <img class="projects-square" src="/portfolio/images/games_main.JPG" alt="Spooky">
         <div class="overlay-text">Games</div>
         </div>
     </a>
     <a href="/portfolio/instal_other.html" class="image-overlay-link">
         <div class="image-overlay-container">
-            <img class="projects-square" src="/portfolio/images/installations_main.png" alt="Spooky">
+            <img class="projects-square" src="/portfolio/images/installations_main.jpg" alt="Spooky">
             <div class="overlay-text">Installations & others</div>
         </div>
     </a>
