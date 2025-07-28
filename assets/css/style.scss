@@ -49,6 +49,22 @@
     text-decoration: none;
 }
 
+.image-overlay-link {
+  text-decoration: none;
+  color: white;
+  display: inline-block;
+  position: relative;
+}
+
+.image-overlay-container {
+  position: relative;
+  display: inline-block;
+}
+
+.image-overlay-container:hover .projects-square {
+  filter: brightness(70%);
+}
+
 .projects-square {
     object-fit:  cover;
     width: 200px;
