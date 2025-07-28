@@ -56,9 +56,9 @@
   position: relative;
 }
 
-.image-overlay-container {
+.image-overlay-container-2 {
   display: flex;
-  width: 250px;
+  width: 330px;
   height: 250px;
   overflow: hidden;
 }
@@ -96,4 +96,20 @@
   justify-content: center; /* Optional: center the whole row */
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+.anchor-button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin: 8px;
+      background-color: #007BFF;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      font-family: Arial, sans-serif;
+      transition: background-color 0.3s ease;
+    }
+
+.anchor-button:hover {
+    background-color: #0056b3;
 }
