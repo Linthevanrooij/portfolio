@@ -4,6 +4,7 @@ title: Installations & others
 ---
 
 <a href="#TestifiedExistence" class="anchor-button">Testified Existence</a>
+<a href="#Spooky" class="anchor-button">Spooky</a>
 <a href="#CeliaCal" class="anchor-button">Celiac Calendar</a>
 <a href="#MagicMike" class="anchor-button">Meta Magic Mike</a>
 
@@ -14,13 +15,28 @@ Together with Emma and Joseph, we exhibited our project Testified Existence duri
 <div class="video-image-wrapper">
     <a href="https://youtu.be/op22tjlWhmM" class="image-overlay-link" target="_blank">
         <div class="image-overlay-container">
-        <img class="projects-square" src="images/installations_main.jpg.jpg" alt="escape">
+        <img class="projects-square" src="images/installations_main.jpg" alt="installation">
         <div class="overlay-text">View Video</div>
         </div>
     </a>
     <img src="images/S2E3.jpg" heigth="250" width="250" alt="testifiedexistence">
     <img src="images/S2E.jpg" heigth="250" width="250" alt="testifiedexistence">
 </div>
+
+<h3 id="Spooky">Spooky: the tantrum ghost</h3>
+
+In the course Artificial Creatures, we had to design a creature that fully embodied one human trait. Together with Boet and Dewi, we chose to build a creature that had separation anxiety and therefore seeks attention. With little attention, it throws a tantrum. With enough attention, it remains quiet. The video below will give an impression of Spooky. More information about the concept can be found [here](https://sites.google.com/view/artificialcreatures2024/student-portfolios/boet-bouten/spooky). 
+
+<div class="video-image-wrapper">
+    <a href="https://youtu.be/mt0A43aKj34" class="image-overlay-link" target="_blank">
+        <div class="image-overlay-container">
+        <img class="projects-square" src="images/spooky.png" alt="spooky">
+        <div class="overlay-text">View Video</div>
+        </div>
+    </a>
+    <img src="images/spooky2.jpg" heigth="250" width="300" alt="spooky">
+</div>
+
 
 <h3 id="MagicMike">Meta Magic Mike</h3>
 
