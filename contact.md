@@ -45,8 +45,9 @@ Check out some of the projects I created during my Master's CRIT, a program that
     const message = document.getElementById('message').value.trim();
 
     const subject = `New message from ${name}${company ? ', ' + company : ''}`;
+    const body = `Message:\n${message}`;
     
-    const mailtoLink = `mailto:linthe.vr@live.nl?subject=${encodeURIComponent(subject)}`;
+    const mailtoLink = `mailto:linthe.vr@live.nl?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
 
     window.location.href = mailtoLink;
   });
