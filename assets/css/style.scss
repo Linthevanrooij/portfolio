@@ -63,6 +63,13 @@
   overflow: hidden;
 }
 
+.image-overlay-container {
+  display: flex;
+  width: 250px;
+  height: 250px;
+  overflow: hidden;
+}
+
 .projects-square {
   object-fit: cover;
   width: 100%;
@@ -72,6 +79,10 @@
 
 /* Darken image on hover */
 .image-overlay-container:hover .projects-square {
+  filter: brightness(60%);
+}
+
+.image-overlay-container-2:hover .projects-square {
   filter: brightness(60%);
 }
 
