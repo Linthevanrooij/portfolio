@@ -19,7 +19,7 @@ Later, for the course Computational Creativity, we further developed this tool i
 
 [link to github](https://github.com/Linthevanrooij/PianoSheetAI){:target="_blank"}
 
-<div class="video-image-wrapper">
+<div class="project-wrapper">
     <div>
         <a href="https://youtu.be/e-GNHiEiJg8" class="image-overlay-link" target="_blank">
             <div class="image-overlay-container-2">
