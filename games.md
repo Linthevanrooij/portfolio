@@ -19,12 +19,12 @@ As part of the course Hardware & Physical Computing, me and two other classmates
     <div>
         <a href="https://www.youtube.com/watch?v=Qoaznm9Rup4" class="image-overlay-link" target="_blank">
             <div class="image-overlay-container-2">
-            <img class="projects-square" src="images/goose2.jpg" alt="gooseboard">
+            <img class="projects-square" src="images/goose3.jpg" alt="gooseboard">
             <div class="overlay-text">View Demo Video</div>
             </div>
         </a>
     </div>
-    <img src="images/goose3.jpg" width= "340" heigth="250" alt="pianosheet_presentation">
+    <img src="images/goose2.jpg" width= "340" heigth="250" alt="pianosheet_presentation">
     
 </div>
 
@@ -34,10 +34,12 @@ Inspired by BrainBall, NeuroSonification is a game where two players control sou
 
 Neurosonification also got selected for the [YAL/YUL Science Exhibition in Leiden](https://www.universiteitleiden.nl/en/news/2024/06/unique-exhibition-translates-science-into-music-images-and-dance), where I presented my work and visitors could experience the game. 
 
-<img src="images/SSI>
 
-<video width="400" controls>
-    <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/VID_20240611213338.mp4">
-    Your browser does not support HTML video.
-</video>
-
+<div class="video-image-wrapper">
+    <video width="400" controls>
+        <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/VID_20240611213338.mp4">
+        Your browser does not support HTML video.
+    </video>
+    <img src="images/SSI3.JPG" width= "250">
+    <img src="images/SSI4.JPG" width= "250">
+    </div>
