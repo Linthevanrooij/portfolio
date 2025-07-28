@@ -3,22 +3,30 @@ layout: default
 title: Projects
 ---
 
-<a href="/portfolio/games.html" class="hover-link">
-  <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
-  <div>Games</div>
+<a href="/portfolio/games.html" class="image-overlay-link">
+  <div class="image-overlay-container">
+    <img class="projects-square" src="/portfolio/images/CP_1.png" alt="Spooky">
+    <div class="overlay-text">Games</div>
+  </div>
 </a>
 
-<a href="/portfolio/instal_other.html" class="hover-link">
-  <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
-  <div>Installations & others</div>
+<a href="/portfolio/instal_other.html" class="image-overlay-link">
+  <div class="image-overlay-container">
+    <img class="projects-square" src="/portfolio/images/pns_calendar.png" alt="Spooky">
+    <div class="overlay-text">Installations & others</div>
+  </div>
 </a>
 
-<a href="/portfolio/tools.html" class="hover-link">
-  <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
-  <div>Digital Tools</div>
+<a href="/portfolio/tools.html" class="image-overlay-link">
+  <div class="image-overlay-container">
+    <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
+    <div class="overlay-text">Digital Tools</div>
+  </div>
 </a>
 
-<a href="/portfolio/papers.html" class="hover-link">
-  <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
-  <div>Papers</div>
+<a href="/portfolio/papers.html" class="image-overlay-link">
+  <div class="image-overlay-container">
+    <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
+    <div class="overlay-text">Papers</div>
+  </div>
 </a>
