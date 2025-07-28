@@ -34,7 +34,7 @@ In the course Artificial Creatures, we had to design a creature that fully embod
         <div class="overlay-text">View Video</div>
         </div>
     </a>
-    <img src="images/spooky2.jpg" heigth="250" width="300" alt="spooky">
+    <img src="images/spooky2.jpg" heigth="250" width="280" alt="spooky">
 </div>
 
 
