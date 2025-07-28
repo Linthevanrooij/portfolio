@@ -99,17 +99,19 @@
 }
 
 .anchor-button {
-      display: inline-block;
-      padding: 10px 20px;
-      margin: 8px;
-      background-color: #007BFF;
-      color: white;
-      text-decoration: none;
-      border-radius: 5px;
-      font-family: Arial, sans-serif;
-      transition: background-color 0.3s ease;
-    }
+  display: inline-block;
+  padding: 10px 20px;
+  margin: 8px;
+  background-color: white;
+  color: #15945C;
+  text-decoration: none;
+  border: 2px solid #15945C;
+  border-radius: 5px;
+  font-family: Arial, sans-serif;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
 
 .anchor-button:hover {
-    background-color: #0056b3;
+  background-color: #15945C;
+  color: white;
 }
