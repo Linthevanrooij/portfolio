@@ -19,7 +19,7 @@ As part of the course Hardware & Physical Computing, me and two other classmates
     <div>
         <a href="https://www.youtube.com/watch?v=Qoaznm9Rup4" class="image-overlay-link" target="_blank">
             <div class="image-overlay-container-2">
-            <img class="projects-square" src="/portfolio/images/goose2.png" alt="gooseboard">
+            <img class="projects-square" src="/portfolio/images/goose2.jpg" alt="gooseboard">
             <div class="overlay-text">View Demo Video</div>
             </div>
         </a>
@@ -36,7 +36,8 @@ Neurosonification also got selected for the [YAL/YUL Science Exhibition in Leide
 
 <img src="images/SSI>
 
-<video width="320" height="320">
-    <source src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/VID_20240611213338.mp4">
+<video width="400" controls>
+    <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/VID_20240611213338.mp4">
+    Your browser does not support HTML video.
 </video>
 
