@@ -46,7 +46,7 @@ The Creative Programming Course taught me how to program in Processing, a java-b
 
 <h3 id="GPTracker">GreenPlanetTracker (GPTracker)</h3>
 
-One of my elective projects was AI in Society. For the final project, we had to re-imagine what AI could be in a hopeful way within a specific domain. I chose "Environment" and build a concept idea/ prototype for a tool that tracks your GPT usage, and links this to energy and water usage, based on known data. 
+One of my elective projects was AI in Society. For the final project, we had to re-imagine what AI could be in a hopeful way within a specific domain. I chose "Environment" and build a concept idea/ prototype for a tool that tracks your GPT usage, and links this to energy and water usage, based on known data. The paper that I wrote about this topic can be found [here](docs/AISOC_final_assignment.pdf).
 
 <div>
     <a href="docs/GreenPlanetTracker.pdf" class="image-overlay-link" target="_blank">
