@@ -57,8 +57,7 @@
 }
 
 .image-overlay-container {
-  position: relative;
-  display: inline-block;
+  display: flex;
   width: 200px;
   height: 200px;
   overflow: hidden;
