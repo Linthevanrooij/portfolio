@@ -52,10 +52,12 @@ One of my electives was called *Fundamentals of Artificial Intelligence Programm
 
 In this course, we visited different Science Museums such as Nemo, Museon, and Naturalis, after which we had to make assignments focused at combining theory with the experience in the museums. For Naturalis, we had to create an idea for a family activity in one of their activity rooms. Our idea included an interactive Kapok tree with adjustable objects, sounds and lights. 
 
-<a href="docs/Group3_Naturalis_presentation.pdf" class="image-overlay-link" target="_blank">
-    <div class="image-overlay-container">
-    <img class="projects-square" src="images/ise.png" alt="kapok">
-    <div class="overlay-text">View Presentation</div>
-    </div>
-</a>
+<div>
+    <a href="docs/Group3_Naturalis_presentation.pdf" class="image-overlay-link" target="_blank">
+        <div class="image-overlay-container">
+        <img class="projects-square" src="images/ise.png" alt="kapok">
+        <div class="overlay-text">View Presentation</div>
+        </div>
+    </a>
+</div>
 
