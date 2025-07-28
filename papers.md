@@ -4,7 +4,7 @@ title: Papers
 ---
 
 <a href="#Riddle" class="anchor-button">The Riddle Experiment</a>
-<a href="#Connectionsm" class="anchor-button">Connectionism</a>
+<a href="#Connectionism" class="anchor-button">Connectionism</a>
 <a href="#RF" class="anchor-button">Sipping on Serotonin</a>
 <a href="#FAIP" class="anchor-button">Emotion-Guided Image and Text Generation</a>
 <a href="#ISE" class="anchor-button">Informal Science Education</a>
@@ -50,5 +50,12 @@ One of my electives was called *Fundamentals of Artificial Intelligence Programm
 
 <h3 id="ISE">Informal Science Education</h3>
 
-In this course, we visited different Science Museums such as Nemo, Museon, and Naturalis, after which we had to make assignments focused at combining theory with the experience in the museums. For Naturalis, we had to create an idea for a family activity in one of their activity rooms. Our presentation slides, including our idea can be found [here](docs/Group3_Naturalis_presentation.pdf).
+In this course, we visited different Science Museums such as Nemo, Museon, and Naturalis, after which we had to make assignments focused at combining theory with the experience in the museums. For Naturalis, we had to create an idea for a family activity in one of their activity rooms. Our idea included an interactive Kapok tree with adjustable objects, sounds and lights. 
+
+<a href="docs/Group3_Naturalis_presentation.pdf" class="image-overlay-link" target="_blank">
+    <div class="image-overlay-container">
+    <img class="projects-square" src="images/ise.png" alt="kapok">
+    <div class="overlay-text">View Presentation</div>
+    </div>
+</a>
 
