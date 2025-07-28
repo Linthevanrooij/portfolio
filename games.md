@@ -36,12 +36,12 @@ Neurosonification also got selected in June 2024 for the [YAL/YUL Science Exhibi
 
 
 <div class="video-image-wrapper">
-    <video width="400" controls>
+    <video height="190" controls>
         <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/VID_20240611213338.mp4">
         Your browser does not support HTML video.
     </video>
-    <img src="images/SSI3.JPG" height= "250">
-    <img src="images/SSI4.JPG" height= "250">
+    <img src="images/SSI3.JPG" height= "190">
+    <img src="images/SSI4.JPG" height= "190">
 </div>
 
 <h3 id="EscapePlato">Escape From Plato's Cave</h3>
@@ -52,11 +52,10 @@ The course Science and Humanities encouraged us to translate an insight about th
     <div>
         <a href="docs/Escape_plato.pdf" class="image-overlay-link" target="_blank">
             <div class="image-overlay-container">
-            <img class="projects-square" src="images/escape.png" alt="gooseboard">
+            <img class="projects-square" src="images/escape.png" alt="escape">
             <div class="overlay-text">View impression</div>
             </div>
         </a>
     </div>
-    <img src="images/plato.jpg" heigth="250"alt="pianosheet_presentation">
-    
+    <img src="images/plato.jpg" heigth="250" alt="escape_plato">
 </div>
