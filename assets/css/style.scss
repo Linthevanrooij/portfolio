@@ -58,8 +58,8 @@
 
 .image-overlay-container {
   display: flex;
-  width: 200px;
-  height: 200px;
+  width: 190px;
+  height: 190x;
   overflow: hidden;
 }
 
@@ -92,6 +92,8 @@
 
 .project-wrapper {
   display: flex;
+  gap: 5px;               /* Add space between blocks */
+  justify-content: center; /* Optional: center the whole row */
   margin-top: 20px;
   margin-bottom: 20px;
 }
