@@ -5,20 +5,20 @@ title: Projects
 
 <a href="/games.html" class="hover-link">
   <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
-  <div class="projects-text">Games</div>
+  <div>Games</div>
 </a>
 
 <a href="/instal_other.html" class="hover-link">
   <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
-  <div class="projects-text">Installations & others</div>
+  <div>Installations & others</div>
 </a>
 
 <a href="/tools.html" class="hover-link">
   <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
-  <div class="projects-text">Digital Tools</div>
+  <div>Digital Tools</div>
 </a>
 
 <a href="/papers.html" class="hover-link">
   <img class="projects-square" src="/portfolio/images/spooky.png" alt="Spooky">
-  <div class="projects-text">Papers</div>
+  <div>Papers</div>
 </a>

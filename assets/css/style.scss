@@ -54,3 +54,19 @@
     width: 200px;
     height: 200px;
 }
+
+.hover-link {
+  text-decoration: none;
+  color: inherit;
+  display: inline-block;
+  text-align: center;
+  margin: 10px;
+}
+
+.hover-link div {
+  transition: all 0.2s ease;
+}
+
+.hover-link:hover div {
+  text-decoration: underline;
+}
