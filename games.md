@@ -57,5 +57,5 @@ The course Science and Humanities encouraged us to translate an insight about th
             </div>
         </a>
     </div>
-    <img src="images/plato.jpg" heigth="250" alt="escape_plato">
+    <img src="images/plato.jpg" heigth="250" width="300" alt="escape_plato">
 </div>
