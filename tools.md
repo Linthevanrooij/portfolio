@@ -10,7 +10,11 @@ As part of the course HCI, me and Emma Boom built an interactive web application
 
 Later, for the course Computational Creativity, we further developed this tool into PianoSheetAI 2.0 focused on co-creativity. 
 
-(link to github)[https://github.com/Linthevanrooij/PianoSheetAI]
+[link to github](https://github.com/Linthevanrooij/PianoSheetAI)
+
+<video width="320" heigh="240" controls loop="" muted="" autoplay="">
+    <source src= "">
+</video>
 
 
 </section>
