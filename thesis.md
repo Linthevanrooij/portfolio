@@ -20,6 +20,4 @@ For my thesis project, I created a custum-build escape room to investigate the F
 
 The (portable) escape room was aimed to create an active learning experience about the underlying arguments surrounding the statement *Should AI replace office workers?*. An impression of the escape room can be found below. 
 
-<img src="images/telephone.jpeg" width= "250" heigth="250" alt="tel">
-<img src="images/telephone.jpeg" width= "250" heigth="250" alt="tel">
-<img src="images/telephone.jpeg" width= "250" heigth="250" alt="tel">
+<img src="images/escape_room.jpg" width= "400" alt="tel">
