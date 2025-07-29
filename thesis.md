@@ -18,6 +18,6 @@ For my thesis project, I created a custum-build escape room to investigate the F
     <img src="images/escape3.jpg" width="188" heigth="250" alt="tel">
 </div>
 
-The (portable) escape room was aimed to create an active learning experience about the underlying arguments surrounding the statement *Should AI replace office workers?*. An impression of the escape room can be found below. 
+The (portable) escape room was aimed to create an active learning experience about the underlying arguments surrounding the statement *Should AI replace office workers?* An impression of the design and elements present in the escape room can be found below. 
 
-<img src="images/escape_room.jpg" width= "400" alt="tel">
+<img src="images/escape_room.jpg" width= "500" alt="tel">
