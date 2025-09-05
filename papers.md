@@ -31,7 +31,7 @@ But the story did not end here, together with our teacher Tessa Verhoef, we tran
 </div>
 
 
-<h3 id="Connectionism">Connectionsm</h3>
+<h3 id="Connectionism">Connectionism</h3>
 
 I wrote two papers for the course Strategies in Creative and Performing Arts. Connectionism is a strategy in arts that I created for this course. More can be found in the documents below. 
 
