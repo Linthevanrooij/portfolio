@@ -13,7 +13,7 @@ title: Papers
 
 *The Riddle Experiment: two groups are trying to solve a Black Story behind a screen, only one group is alive* was our title for our research project executed during the course Non-Human Cognition. Together with Yanna and Nikki, we set up an experiment that tested the reasoning capabilities of ChatGPT versus those of humans. We created a poster presenting our results, for which earned us the Best Poster Award!
 
-But the story did not end here, together with our teacher Tessa Verhoef, we tranformed our research into a research paper. We presented this at the CLIN conference 2024, got published in their journal and were accepted for the Cognitive Sciences conference in San Fransisco. Unfortunately, we could not attend with our whole group, but our paper was also accepted in their proceedings (yet to be published).
+But the story did not end here, together with our teacher Tessa Verhoef, we tranformed our research into a research paper. We presented this at the CLIN conference 2024, got published in their journal and were accepted for the Cognitive Sciences conference in San Fransisco. Unfortunately, we could not attend with our whole group, but our paper was also accepted in [their proceedings](https://escholarship.org/uc/item/38m599bg). 
 
 <div class="video-image-wrapper">
     <a href="https://www.clinjournal.org/clinj/article/view/212" class="image-overlay-link" target="_blank">
