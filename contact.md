@@ -7,9 +7,11 @@ title: Contact
 
 Hi there! 
 
-I am Linthe van Rooij, currently finishing my graduation project from Creative Intelligence and Technology (CRIT).
+I am Linthe van Rooij, graduated from Msc Creative Intelligence and Technology (CRIT).
 
 Check out some of the projects I created during my Master's CRIT, a program that allowed me to establish a foundation in technology and blend it with my artistic/creative side. The projects focus mostly on interactive participation, often together with a playful twist. 
+
+I am still figuring out what I want but am currently open to jobs that combine **playfulness**, **(social) impact** and **creativity/technology**. 
 
 <fieldset>
   <form id="contact-form">

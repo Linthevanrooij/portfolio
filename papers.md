@@ -35,7 +35,7 @@ But the story did not end here, together with our teacher Tessa Verhoef, we tran
 
 I wrote two papers for the course Strategies in Creative and Performing Arts. Connectionism is a strategy in arts that I created for this course. More can be found in the documents below. 
 
-- [Comparing artworks minimalism](docs/Minimalist_perspective.pdf.pdf)
+- [Comparing artworks minimalism](docs/Minimalist_perspective.pdf)
 - [Connectionism](docs/Connectionism.pdf)
 
 <h3 id="RF">Sipping on Serotonin</h3>
