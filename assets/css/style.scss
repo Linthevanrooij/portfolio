@@ -163,3 +163,10 @@
     align-items: center;
   }
 }
+
+@media screen and (min-width: 64em) {
+  .main-content {
+    max-width: 90rem;
+    padding: 2rem 2rem;
+  }
+}
