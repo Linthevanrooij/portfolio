@@ -131,7 +131,9 @@
 
 .video-image-wrapper {
   display: flex;
-  gap: 5px;               
+  gap: 5px;    
+  flex-wrap: wrap; 
+  justify-content: center;           
 }
 
 /* 🔁 Responsive adjustments */
@@ -154,5 +156,10 @@
 
   .overlay-text {
     font-size: 0.9em;
+  }
+
+  .video-image-wrapper {
+    flex-direction: column;
+    align-items: center;
   }
 }
