@@ -54,6 +54,8 @@
   color: white;
   display: inline-block;
   position: relative;
+  width: 300px;
+  height: 300px;
 }
 
 .image-overlay-container-2 {
@@ -104,8 +106,8 @@
   display: flex;
   gap: 5px;               /* Add space between blocks */
   justify-content: center; /* Optional: center the whole row */
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin: 20px;
+  flex-wrap: wrap;
 }
 
 .anchor-button {
@@ -130,3 +132,25 @@
   display: flex;
   gap: 5px;               
 }
+
+/* 🔁 Responsive adjustments */
+@media (max-width: 768px) {
+  .image-overlay-link {
+    width: 45vw;
+    height: 45vw;
+  }
+
+  .overlay-text {
+    font-size: 1em;
+  }
+}
+
+@media (max-width: 480px) {
+  .image-overlay-link {
+    width: 90vw;
+    height: 90vw;
+  }
+
+  .overlay-text {
+    font-size: 0.9em;
+  }
