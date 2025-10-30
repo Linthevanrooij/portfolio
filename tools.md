@@ -40,7 +40,7 @@ Computational Creativity had two really fun and cool assignments; a poetry gener
 
 <div class="video-image-wrapper">
     <video height="190" controls>
-        <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/VID_20240611213338.mp4">
+        <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/JcolElfjes.mp4">
         Your browser does not support HTML video.
     </video>
     <div>
