@@ -13,7 +13,7 @@ title: Installations & others
 Together with Emma and Joseph, we exhibited our project Testified Existence during the exibition in [V2_](https://v2.nl/events/living-media-technology-exhibition). This was all part of the course Exhibition: Science to Experience. In this course we translated a statement within the theme LIVING into an experience. We came up with the statement *Prove that your are existing, not just living*. Our experience was focused on creating awareness of the dualism between living - existing. The video below creates a nice overview of the message that we were trying to convey. 
 
 <div class="video-image-wrapper">
-    <a href="https://youtu.be/op22tjlWhmM" class="image-overlay-link" target="_blank">
+    <a href="https://youtu.be/op22tjlWhmM" class="image-overlay-link video" target="_blank">
         <div class="image-overlay-container">
         <img class="projects-square" src="images/installations_main.jpg" alt="installation">
         <div class="overlay-text">View Video</div>
@@ -28,7 +28,7 @@ Together with Emma and Joseph, we exhibited our project Testified Existence duri
 In the course Artificial Creatures, we had to design a creature that fully embodied one human trait. Together with Boet and Dewi, we chose to build a creature that had separation anxiety and therefore seeks attention. With little attention, it throws a tantrum. With enough attention, it remains quiet. The video below will give an impression of Spooky. More information about the concept can be found [here](https://sites.google.com/view/artificialcreatures2024/student-portfolios/boet-bouten/spooky). 
 
 <div class="video-image-wrapper">
-    <a href="https://youtu.be/mt0A43aKj34" class="image-overlay-link" target="_blank">
+    <a href="https://youtu.be/mt0A43aKj34" class="image-overlay-link square" target="_blank">
         <div class="image-overlay-container">
         <img class="projects-square" src="images/spooky.png" alt="spooky">
         <div class="overlay-text">View Video</div>
@@ -49,7 +49,7 @@ The course Meta Media was spanned over only one full-time week. In this week we 
 We created a calendar for the course Playful & Creative Science, in which we presented a research article in a playful manner. 
 
 <div>
-    <a href="docs/pns_cal.pdf" class="image-overlay-link" target="_blank">
+    <a href="docs/pns_cal.pdf" class="image-overlay-link square" target="_blank">
         <div class="image-overlay-container">
         <img class="projects-square" src="images/pns_calendar.png" alt="celiac">
         <div class="overlay-text">View full calendar</div>

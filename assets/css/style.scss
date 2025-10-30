@@ -49,12 +49,22 @@
     text-decoration: none;
 }
 
+
 .image-overlay-link {
   text-decoration: none;
   color: white;
   display: inline-block;
   position: relative;
+}
+
+.square {
   width: 250px;
+  height: 250px;
+}
+
+.video {
+  position: relative;
+  width: auto; 
   height: 250px;
 }
 
@@ -132,8 +142,7 @@
 .video-image-wrapper {
   display: flex;
   gap: 5px;    
-  flex-wrap: wrap; 
-  justify-content: center;           
+  flex-wrap: wrap;          
 }
 
 /* 🔁 Responsive adjustments */

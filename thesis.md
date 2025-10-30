@@ -8,7 +8,7 @@ title: Thesis Project
 For my thesis project, I created a custum-build escape room to investigate the False Consensus Effect, a cognitive bias where people overestimate how much others share their opinions and beliefs. The whole project was actually a perfect combination of the psychology part of my previous bachelor Psychobiology and the skills and knowledge that I gained during my master's Creative Intelligence & Technology. Although the whole foundation surrounding the False Consensus Effect and learning experiences was more Social-Science focused, the process of building a whole escape room from scrath (including assembling a micro-controlled second-hand telephone) would not have been possible without everything that I learned during my masters CRIT. Interested in reading the whole thesis? You can find it [here](https://theses.liacs.nl/pdf/2024-2025-RooijLvanLinthe.pdf).
 
 <div project-wrapper>
-    <a href="docs/thesis_presentation.pdf" class="image-overlay-link">
+    <a href="docs/thesis_presentation.pdf" class="image-overlay-link square">
         <div class="image-overlay-container">
             <img class="projects-square" src="/portfolio/images/present.jpg" alt="thesis">
             <div class="overlay-text">Presentation Slides</div>
