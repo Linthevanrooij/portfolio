@@ -39,13 +39,13 @@ Later, for the course Computational Creativity, we further developed this tool i
 Computational Creativity had two really fun and cool assignments; a poetry generator based on grammar rules and a recipe generator based on an evolutionairy algorithm. With help of J Cole and some grammar rules, we made a poem generator that created didactic cinquains also known as "Elfjes". The recipe generator received help from web-scraped glutenfree Mochi recipes. Based on an evolutionairy algorithm, it created unique mochi recipes with sometimes weird ingredients such as olives, or pinapple with coffee. We used the latter in the traditional "bake off" with the class and received the "most surprising cookie" award for it. Have a look in our recipe book or listen to our JCole-like Elfjes. 
 
 <div class="video-image-wrapper">
-    <video height="190" controls>
+    <video height="250" controls>
         <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/JcolElfjes.mp4">
         Your browser does not support HTML video.
     </video>
     <div>
         <a href="docs/MochiMonsters.pdf" class="image-overlay-link square" target="_blank">
-            <div class="image-overlay-container-2">
+            <div class="image-overlay-container">
             <img class="projects-square" src="/portfolio/images/Cover.png" alt="mochimonsters">
             <div class="overlay-text">View Recipe Book</div>
             </div>
