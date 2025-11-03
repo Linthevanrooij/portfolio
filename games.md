@@ -3,9 +3,25 @@ layout: default
 title: Games
 ---
 
-<a href="#GooseBoardGame" class="anchor-button">GooseBoardGame</a>
 <a href="#Neurosonification" class="anchor-button">Neurosonification</a>
+<a href="#GooseBoardGame" class="anchor-button">GooseBoardGame</a>
 <a href="#EscapePlato" class="anchor-button">Escape from Plato's Cave</a>
+
+<h3 id="NeuroSonification">NeuroSonification: controlling sound with your mind</h3>
+
+Inspired by BrainBall, NeuroSonification is a game where two players control sound with mind relaxation. The project was build for the course Sound, Space and Interaction. The players are placed on opposite sites and each wear a MindWave EEG set. This set registers how relaxed the players are and based on these scores, will play a synthesized sound in the space between the participants. For this course, I learned to use PureData, a visual coding language specifically used for music generation. 
+
+Neurosonification also got selected in June 2024 for the [YAL/YUL Science Exhibition in Leiden](https://www.universiteitleiden.nl/en/news/2024/06/unique-exhibition-translates-science-into-music-images-and-dance), where I presented my work and visitors could experience the game.
+
+
+<div class="video-image-wrapper">
+    <video height="190" controls>
+        <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/VID_20240611213338.mp4">
+        Your browser does not support HTML video.
+    </video>
+    <img src="images/SSI3.JPG" height= "190">
+    <img src="images/SSI4.JPG" height= "190">
+</div>
 
 <h3 id="GooseBoardGame">GooseBoardGame</h3>
 
@@ -23,22 +39,6 @@ As part of the course Hardware & Physical Computing, me and two other classmates
         </div>
     </a>
     <img src="images/goose2.jpg" width= "330" alt="pianosheet_presentation">
-</div>
-
-<h3 id="NeuroSonification">NeuroSonification: controlling sound with your mind</h3>
-
-Inspired by BrainBall, NeuroSonification is a game where two players control sound with mind relaxation. The project was build for the course Sound, Space and Interaction. The players are placed on opposite sites and each wear a MindWave EEG set. This set registers how relaxed the players are and based on these scores, will play a synthesized sound in the space between the participants. For this course, I learned to use PureData, a visual coding language specifically used for music generation. 
-
-Neurosonification also got selected in June 2024 for the [YAL/YUL Science Exhibition in Leiden](https://www.universiteitleiden.nl/en/news/2024/06/unique-exhibition-translates-science-into-music-images-and-dance), where I presented my work and visitors could experience the game.
-
-
-<div class="video-image-wrapper">
-    <video height="190" controls>
-        <source type="video/mp4" src="https://github.com/Linthevanrooij/portfolio/raw/refs/heads/main/images/VID_20240611213338.mp4">
-        Your browser does not support HTML video.
-    </video>
-    <img src="images/SSI3.JPG" height= "190">
-    <img src="images/SSI4.JPG" height= "190">
 </div>
 
 <h3 id="EscapePlato">Escape From Plato's Cave</h3>
