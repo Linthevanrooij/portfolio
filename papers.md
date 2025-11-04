@@ -16,13 +16,13 @@ title: Papers
 But the story did not end here, together with our teacher Tessa Verhoef, we tranformed our research into a research paper. We presented this at the CLIN conference 2024, got published in their journal and were accepted for the Cognitive Sciences conference in San Fransisco. Unfortunately, we could not attend with our whole group, but our paper was also accepted in [their proceedings](https://escholarship.org/uc/item/38m599bg). 
 
 <div class="video-image-wrapper">
-    <a href="https://www.clinjournal.org/clinj/article/view/212" class="image-overlay-link" target="_blank">
+    <a href="https://www.clinjournal.org/clinj/article/view/212" class="image-overlay-link square" target="_blank">
         <div class="image-overlay-container">
         <img class="projects-square" src="images/conference.jpg" alt="conference">
         <div class="overlay-text">View CLIN Article</div>
         </div>
     </a>
-    <a href="docs/NHC_blackstory_poster_original.pdf" class="image-overlay-link" target="_blank">
+    <a href="docs/NHC_blackstory_poster_original.pdf" class="image-overlay-link square" target="_blank">
         <div class="image-overlay-container">
         <img class="projects-square" src="images/papers_main.png" alt="conference">
         <div class="overlay-text">View poster</div>
